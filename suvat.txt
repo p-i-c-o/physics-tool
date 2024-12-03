@@ -1,0 +1,7 @@
+Here are the SUVAT equations in plain text:
+
+1. v = u + at  
+2. s = ut + 0.5at^2  
+3. v^2 = u^2 + 2as  
+4. s = ((u + v) / 2) * t  
+5. s = vt - 0.5at^2
